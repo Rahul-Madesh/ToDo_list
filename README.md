@@ -16,7 +16,7 @@ Users can add, view, and remove tasks to stay organized.
 - CSS
 - JavaScript
  📂 Project Structure
-```
+
 ToDo_list/
 │
 ├── index.html
